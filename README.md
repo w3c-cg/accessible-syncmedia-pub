@@ -1,5 +1,7 @@
 
-# Specification 'accessible-syncmedia-pub'
+# Accessible Synchronized Multimedia for Publishing Community Group
 
-This is the repository for accessible-syncmedia-pub. You're welcome to contribute! Let's make the Web rock our socks
-off!
+This is the repository for accessible-syncmedia-pub. 
+
+* [Group overview](https://www.w3.org/community/accessible-syncmedia-pub/)
+* [Minutes](https://w3c-cg.github.io/accessible-syncmedia-pub/minutes/)
