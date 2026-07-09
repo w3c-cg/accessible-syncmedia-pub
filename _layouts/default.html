@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title and page.title != site.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+  </head>
+  <body>
+    <a class="skip-link" href="#content">Skip to content</a>
+
+    {% unless page.url == "/" %}
+      <header class="site-header">
+        <div class="site-shell">
+          <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+        </div>
+      </header>
+    {% endunless %}
+
+    <main id="content" class="content">
+      {% assign section = page.path | split: '/' | first %}
+      {% if section == 'minutes' and page.name != 'index.md' and page.name != 'README.md' %}
+        <p class="back-link"><a href="{{ '/minutes/' | relative_url }}">back to minutes index</a></p>
+      {% endif %}
+
+      {{ content }}
+    </main>
+
+    <footer class="site-footer">
+      <div class="site-shell">
+        <p>W3C Accessible Synchronized Multimedia for Publishing Community Group</p>
+      </div>
+    </footer>
+    <script src="{{ '/assets/js/heading-anchors.js' | relative_url }}"></script>
+  </body>
+</html>
