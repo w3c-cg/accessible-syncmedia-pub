@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="LpStudioGen 1.6" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="Volunteers" />
+<meta name="dc:title" content="4980FSafe" />
+<meta name="ncc:totalElapsedTime" content="00:23:08" />
+<meta name="ncc:timeInThisSmil" content="00:00:04" />
+<layout>
+<region id="txtView" />
+</layout>
+<meta name="dc:identifier" content="PID4980" />
+</head>
+<body>
+<seq dur="4.310s">
+<par endsync="last">
+<text src="fire_safety.html#bfcw_00c6" id="bfcw_00c6" />
+<seq>
+<audio src="38_Volunteers.wav" clip-begin="npt=0.0s" clip-end="npt=1.931s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_00c7" id="bfcw_00c7" />
+<seq>
+<audio src="38_Volunteers.wav" clip-begin="npt=1.931s" clip-end="npt=3.599s" id="qwrt_0002" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_00c8" id="bfcw_00c8" />
+<seq>
+<audio src="38_Volunteers.wav" clip-begin="npt=3.599s" clip-end="npt=4.310s" id="qwrt_0003" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>

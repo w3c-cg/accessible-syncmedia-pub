@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="LpStudioGen 1.6" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="1. Fire!" />
+<meta name="dc:title" content="4980FSafe" />
+<meta name="ncc:totalElapsedTime" content="00:03:38" />
+<meta name="ncc:timeInThisSmil" content="00:01:11" />
+<layout>
+<region id="txtView" />
+</layout>
+<meta name="dc:identifier" content="PID4980" />
+</head>
+<body>
+<seq dur="70.522s">
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0034" id="bfcw_0034" />
+<seq>
+<audio src="06_1_Fire.wav" clip-begin="npt=0.000s" clip-end="npt=3.239s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0035" id="bfcw_0035" />
+<seq>
+<audio src="06_1_Fire.wav" clip-begin="npt=3.239s" clip-end="npt=10.839s" id="qwrt_0002" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0036" id="bfcw_0036" />
+<seq>
+<audio src="06_1_Fire.wav" clip-begin="npt=10.839s" clip-end="npt=21.839s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0037" id="bfcw_0037" />
+<seq>
+<audio src="06_1_Fire.wav" clip-begin="npt=21.839s" clip-end="npt=38.228s" id="qwrt_0004" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0038" id="bfcw_0038" />
+<seq>
+<audio src="06_1_Fire.wav" clip-begin="npt=38.228s" clip-end="npt=38.828s" id="qwrt_0005" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0039" id="bfcw_0039" />
+<seq>
+<audio src="06_1_Fire.wav" clip-begin="npt=38.828s" clip-end="npt=57.428s" id="qwrt_0006" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_003a" id="bfcw_003a" />
+<seq>
+<audio src="06_1_Fire.wav" clip-begin="npt=57.428s" clip-end="npt=69.828s" id="qwrt_0007" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_003b" id="bfcw_003b" />
+<seq>
+<audio src="06_1_Fire.wav" clip-begin="npt=69.828s" clip-end="npt=70.522s" id="qwrt_0008" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>

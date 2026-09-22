@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="LpStudioGen 1.6" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="Cover Notes" />
+<meta name="dc:title" content="4980FSafe" />
+<meta name="ncc:totalElapsedTime" content="00:01:49" />
+<meta name="ncc:timeInThisSmil" content="00:00:58" />
+<layout>
+<region id="txtView" />
+</layout>
+<meta name="dc:identifier" content="PID4980" />
+</head>
+<body>
+<seq dur="58.266s">
+<par endsync="last">
+<text src="fire_safety.html#bfcw_001b" id="bfcw_001b" />
+<seq>
+<audio src="04_Cover_Notes.wav" clip-begin="npt=0.000s" clip-end="npt=1.676s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_001c" id="bfcw_001c" />
+<seq>
+<audio src="04_Cover_Notes.wav" clip-begin="npt=1.676s" clip-end="npt=7.076s" id="qwrt_0002" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_001d" id="bfcw_001d" />
+<seq>
+<audio src="04_Cover_Notes.wav" clip-begin="npt=7.076s" clip-end="npt=9.476s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_001e" id="bfcw_001e" />
+<seq>
+<audio src="04_Cover_Notes.wav" clip-begin="npt=9.476s" clip-end="npt=12.076s" id="qwrt_0004" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_001f" id="bfcw_001f" />
+<seq>
+<audio src="04_Cover_Notes.wav" clip-begin="npt=12.076s" clip-end="npt=14.276s" id="qwrt_0005" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0020" id="bfcw_0020" />
+<seq>
+<audio src="04_Cover_Notes.wav" clip-begin="npt=14.276s" clip-end="npt=16.076s" id="qwrt_0006" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0021" id="bfcw_0021" />
+<seq>
+<audio src="04_Cover_Notes.wav" clip-begin="npt=16.076s" clip-end="npt=18.476s" id="qwrt_0007" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0022" id="bfcw_0022" />
+<seq>
+<audio src="04_Cover_Notes.wav" clip-begin="npt=18.476s" clip-end="npt=20.476s" id="qwrt_0008" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0023" id="bfcw_0023" />
+<seq>
+<audio src="04_Cover_Notes.wav" clip-begin="npt=20.476s" clip-end="npt=26.476s" id="qwrt_0009" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0024" id="bfcw_0024" />
+<seq>
+<audio src="04_Cover_Notes.wav" clip-begin="npt=26.476s" clip-end="npt=41.276s" id="qwrt_000a" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0025" id="bfcw_0025" />
+<seq>
+<audio src="04_Cover_Notes.wav" clip-begin="npt=41.276s" clip-end="npt=47.276s" id="qwrt_000b" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0026" id="bfcw_0026" />
+<seq>
+<audio src="04_Cover_Notes.wav" clip-begin="npt=47.276s" clip-end="npt=48.876s" id="qwrt_000c" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0027" id="bfcw_0027" />
+<seq>
+<audio src="04_Cover_Notes.wav" clip-begin="npt=48.876s" clip-end="npt=50.476s" id="qwrt_000d" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0028" id="bfcw_0028" />
+<seq>
+<audio src="04_Cover_Notes.wav" clip-begin="npt=50.476s" clip-end="npt=52.276s" id="qwrt_000e" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0029" id="bfcw_0029" />
+<seq>
+<audio src="04_Cover_Notes.wav" clip-begin="npt=52.276s" clip-end="npt=53.876s" id="qwrt_000f" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_002a" id="bfcw_002a" />
+<seq>
+<audio src="04_Cover_Notes.wav" clip-begin="npt=53.876s" clip-end="npt=55.476s" id="qwrt_0010" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_002b" id="bfcw_002b" />
+<seq>
+<audio src="04_Cover_Notes.wav" clip-begin="npt=55.476s" clip-end="npt=57.676s" id="qwrt_0011" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_002c" id="bfcw_002c" />
+<seq>
+<audio src="04_Cover_Notes.wav" clip-begin="npt=57.676s" clip-end="npt=58.266s" id="qwrt_0012" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>

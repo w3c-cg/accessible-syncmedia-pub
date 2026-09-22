@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="LpStudioGen 1.6" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="8. What happens when you call the fire brigade" />
+<meta name="dc:title" content="4980FSafe" />
+<meta name="ncc:totalElapsedTime" content="00:20:18" />
+<meta name="ncc:timeInThisSmil" content="00:01:16" />
+<layout>
+<region id="txtView" />
+</layout>
+<meta name="dc:identifier" content="PID4980" />
+</head>
+<body>
+<seq dur="76.395s">
+<par endsync="last">
+<text src="fire_safety.html#bfcw_00a3" id="bfcw_00a3" />
+<seq>
+<audio src="26_8_What_happens_when_.wav" clip-begin="npt=0.000s" clip-end="npt=5.199s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_00a4" id="bfcw_00a4" />
+<seq>
+<audio src="26_8_What_happens_when_.wav" clip-begin="npt=5.199s" clip-end="npt=13.199s" id="qwrt_0002" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_00a5" id="bfcw_00a5" />
+<seq>
+<audio src="26_8_What_happens_when_.wav" clip-begin="npt=13.199s" clip-end="npt=19.799s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_00a6" id="bfcw_00a6" />
+<seq>
+<audio src="26_8_What_happens_when_.wav" clip-begin="npt=19.799s" clip-end="npt=34.599s" id="qwrt_0004" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_00a7" id="bfcw_00a7" />
+<seq>
+<audio src="26_8_What_happens_when_.wav" clip-begin="npt=34.599s" clip-end="npt=34.999s" id="qwrt_0005" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_00a8" id="bfcw_00a8" />
+<seq>
+<audio src="26_8_What_happens_when_.wav" clip-begin="npt=34.999s" clip-end="npt=40.199s" id="qwrt_0006" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_00a9" id="bfcw_00a9" />
+<seq>
+<audio src="26_8_What_happens_when_.wav" clip-begin="npt=40.199s" clip-end="npt=45.399s" id="qwrt_0007" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_00aa" id="bfcw_00aa" />
+<seq>
+<audio src="26_8_What_happens_when_.wav" clip-begin="npt=45.399s" clip-end="npt=53.599s" id="qwrt_0008" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_00ab" id="bfcw_00ab" />
+<seq>
+<audio src="26_8_What_happens_when_.wav" clip-begin="npt=53.599s" clip-end="npt=65.399s" id="qwrt_0009" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_00ac" id="bfcw_00ac" />
+<seq>
+<audio src="26_8_What_happens_when_.wav" clip-begin="npt=65.399s" clip-end="npt=75.999s" id="qwrt_000a" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_00ad" id="bfcw_00ad" />
+<seq>
+<audio src="26_8_What_happens_when_.wav" clip-begin="npt=75.999s" clip-end="npt=76.395s" id="qwrt_000b" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="LpStudioGen 1.6" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="4. Fire safety in the city" />
+<meta name="dc:title" content="4980FSafe" />
+<meta name="ncc:totalElapsedTime" content="00:11:57" />
+<meta name="ncc:timeInThisSmil" content="00:01:12" />
+<layout>
+<region id="txtView" />
+</layout>
+<meta name="dc:identifier" content="PID4980" />
+</head>
+<body>
+<seq dur="72.346s">
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0071" id="bfcw_0071" />
+<seq>
+<audio src="18_4_Fire_safety_in_the.wav" clip-begin="npt=0.0s" clip-end="npt=3.799s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0072" id="bfcw_0072" />
+<seq>
+<audio src="18_4_Fire_safety_in_the.wav" clip-begin="npt=3.799s" clip-end="npt=28.399s" id="qwrt_0002" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0073" id="bfcw_0073" />
+<seq>
+<audio src="18_4_Fire_safety_in_the.wav" clip-begin="npt=28.399s" clip-end="npt=40.399s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0074" id="bfcw_0074" />
+<seq>
+<audio src="18_4_Fire_safety_in_the.wav" clip-begin="npt=40.399s" clip-end="npt=40.799s" id="qwrt_0004" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0075" id="bfcw_0075" />
+<seq>
+<audio src="18_4_Fire_safety_in_the.wav" clip-begin="npt=40.799s" clip-end="npt=57.599s" id="qwrt_0005" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0076" id="bfcw_0076" />
+<seq>
+<audio src="18_4_Fire_safety_in_the.wav" clip-begin="npt=57.599s" clip-end="npt=71.599s" id="qwrt_0006" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0077" id="bfcw_0077" />
+<seq>
+<audio src="18_4_Fire_safety_in_the.wav" clip-begin="npt=71.599s" clip-end="npt=72.346s" id="qwrt_0007" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="LpStudioGen 1.6" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="dc:title" content="4980FSafe" />
+<meta name="ncc:timeInThisSmil" content="00:26:11" />
+<meta name="dc:identifier" content="PID4980" />
+<layout>
+<region id="txtView" />
+</layout>
+</head>
+<body>
+<ref title="Fire Safety, by Wendy Blaxland" src="bfcw0001.smil" id="bfcw_0001" />
+<ref title="About this DAISY book" src="bfcw0002.smil" id="bfcw_0002" />
+<ref title="Contents of this DAISY book" src="bfcw0003.smil" id="bfcw_000a" />
+<ref title="Cover Notes" src="bfcw0004.smil" id="bfcw_001b" />
+<ref title="Acknowledgements" src="bfcw0005.smil" id="bfcw_002d" />
+<ref title="1. Fire!" src="bfcw0006.smil" id="bfcw_0034" />
+<ref title="2. Fire safety at home" src="bfcw0007.smil" id="bfcw_003c" />
+<ref title="Heating" src="bfcw0008.smil" id="bfcw_003f" />
+<ref title="Cooking" src="bfcw0009.smil" id="bfcw_0046" />
+<ref title="Helpful hints for safe cooking" src="bfcw000A.smil" id="bfcw_004c" />
+<ref title="Candles" src="bfcw000B.smil" id="bfcw_0051" />
+<ref title="Smoke alarms" src="bfcw000C.smil" id="bfcw_0055" />
+<ref title="A fire escape plan" src="bfcw000D.smil" id="bfcw_0057" />
+<ref title="Helpful hints for escaping a fire at home" src="bfcw000E.smil" id="bfcw_005c" />
+<ref title="3. Fire safety at school" src="bfcw000F.smil" id="bfcw_0061" />
+<ref title="Fire drills" src="bfcw0010.smil" id="bfcw_0065" />
+<ref title="Helpful hints for escaping a fire at school" src="bfcw0011.smil" id="bfcw_006a" />
+<ref title="4. Fire safety in the city" src="bfcw0012.smil" id="bfcw_0071" />
+<ref title="5. Fire safety in the country" src="bfcw0013.smil" id="bfcw_0078" />
+<ref title="Fire warnings" src="bfcw0014.smil" id="bfcw_007c" />
+<ref title="Bushfires" src="bfcw0015.smil" id="bfcw_0080" />
+<ref title="Bushfire danger season" src="bfcw0016.smil" id="bfcw_0088" />
+<ref title="Controlled burning" src="bfcw0017.smil" id="bfcw_008c" />
+<ref title="6. Fire safety signs and warnings" src="bfcw0018.smil" id="bfcw_0090" />
+<ref title="7. How fire fighters keep us safe" src="bfcw0019.smil" id="bfcw_0099" />
+<ref title="8. What happens when you call the fire brigade" src="bfcw001A.smil" id="bfcw_00a3" />
+<ref title="9. Some helpful hints" src="bfcw001B.smil" id="bfcw_00ae" />
+<ref title="Glossary" src="bfcw001C.smil" id="bfcw_00b3" />
+<ref title="Fire drill" src="bfcw001D.smil" id="bfcw_00b4" />
+<ref title="Fire extinguishers" src="bfcw001E.smil" id="bfcw_00b6" />
+<ref title="Fire hydrant" src="bfcw001F.smil" id="bfcw_00b8" />
+<ref title="Flammable" src="bfcw0020.smil" id="bfcw_00ba" />
+<ref title="Fuel" src="bfcw0021.smil" id="bfcw_00bc" />
+<ref title="Leaf litter" src="bfcw0022.smil" id="bfcw_00be" />
+<ref title="Rural areas" src="bfcw0023.smil" id="bfcw_00c0" />
+<ref title="Tankers" src="bfcw0024.smil" id="bfcw_00c2" />
+<ref title="Urban" src="bfcw0025.smil" id="bfcw_00c4" />
+<ref title="Volunteers" src="bfcw0026.smil" id="bfcw_00c6" />
+<ref title="Index" src="bfcw0027.smil" id="bfcw_00c9" />
+<ref title="B" src="bfcw0028.smil" id="bfcw_00cb" />
+<ref title="C" src="bfcw0029.smil" id="bfcw_00ce" />
+<ref title="D" src="bfcw002A.smil" id="bfcw_00d3" />
+<ref title="F" src="bfcw002B.smil" id="bfcw_00d6" />
+<ref title="H" src="bfcw002C.smil" id="bfcw_00e1" />
+<ref title="L" src="bfcw002D.smil" id="bfcw_00e3" />
+<ref title="M" src="bfcw002E.smil" id="bfcw_00e6" />
+<ref title="O" src="bfcw002F.smil" id="bfcw_00e8" />
+<ref title="S" src="bfcw0030.smil" id="bfcw_00ea" />
+<ref title="T" src="bfcw0031.smil" id="bfcw_00f1" />
+<ref title="Publishing and Copyright Details" src="bfcw0032.smil" id="bfcw_00f4" />
+<ref title="Closing Announcement" src="bfcw0033.smil" id="bfcw_00f8" />
+</body>
+</smil>

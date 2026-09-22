@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="LpStudioGen 1.6" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="6. Fire safety signs and warnings" />
+<meta name="dc:title" content="4980FSafe" />
+<meta name="ncc:totalElapsedTime" content="00:17:14" />
+<meta name="ncc:timeInThisSmil" content="00:01:30" />
+<layout>
+<region id="txtView" />
+</layout>
+<meta name="dc:identifier" content="PID4980" />
+</head>
+<body>
+<seq dur="89.900s">
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0090" id="bfcw_0090" />
+<seq>
+<audio src="24_6_Fire_safety_signs_.wav" clip-begin="npt=0.0s" clip-end="npt=4.399s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0091" id="bfcw_0091" />
+<seq>
+<audio src="24_6_Fire_safety_signs_.wav" clip-begin="npt=4.399s" clip-end="npt=11.999s" id="qwrt_0002" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0092" id="bfcw_0092" />
+<seq>
+<audio src="24_6_Fire_safety_signs_.wav" clip-begin="npt=11.999s" clip-end="npt=27.999s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0093" id="bfcw_0093" />
+<seq>
+<audio src="24_6_Fire_safety_signs_.wav" clip-begin="npt=27.999s" clip-end="npt=45.399s" id="qwrt_0004" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0094" id="bfcw_0094" />
+<seq>
+<audio src="24_6_Fire_safety_signs_.wav" clip-begin="npt=45.399s" clip-end="npt=58.199s" id="qwrt_0005" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0095" id="bfcw_0095" />
+<seq>
+<audio src="24_6_Fire_safety_signs_.wav" clip-begin="npt=58.199s" clip-end="npt=58.999s" id="qwrt_0006" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0096" id="bfcw_0096" />
+<seq>
+<audio src="24_6_Fire_safety_signs_.wav" clip-begin="npt=58.999s" clip-end="npt=72.599s" id="qwrt_0007" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0097" id="bfcw_0097" />
+<seq>
+<audio src="24_6_Fire_safety_signs_.wav" clip-begin="npt=72.599s" clip-end="npt=89.199s" id="qwrt_0008" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0098" id="bfcw_0098" />
+<seq>
+<audio src="24_6_Fire_safety_signs_.wav" clip-begin="npt=89.199s" clip-end="npt=89.900s" id="qwrt_0009" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="LpStudioGen 1.6" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="5. Fire safety in the country" />
+<meta name="dc:title" content="4980FSafe" />
+<meta name="ncc:totalElapsedTime" content="00:13:10" />
+<meta name="ncc:timeInThisSmil" content="00:00:33" />
+<layout>
+<region id="txtView" />
+</layout>
+<meta name="dc:identifier" content="PID4980" />
+</head>
+<body>
+<seq dur="33.398s">
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0078" id="bfcw_0078" />
+<seq>
+<audio src="19_5_Fire_safety_in_the.wav" clip-begin="npt=0.0s" clip-end="npt=3.999s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0079" id="bfcw_0079" />
+<seq>
+<audio src="19_5_Fire_safety_in_the.wav" clip-begin="npt=3.999s" clip-end="npt=21.799s" id="qwrt_0002" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_007a" id="bfcw_007a" />
+<seq>
+<audio src="19_5_Fire_safety_in_the.wav" clip-begin="npt=21.799s" clip-end="npt=32.999s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_007b" id="bfcw_007b" />
+<seq>
+<audio src="19_5_Fire_safety_in_the.wav" clip-begin="npt=32.999s" clip-end="npt=33.398s" id="qwrt_0004" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>

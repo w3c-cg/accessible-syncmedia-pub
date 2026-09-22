@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="LpStudioGen 1.6" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="C" />
+<meta name="dc:title" content="4980FSafe" />
+<meta name="ncc:totalElapsedTime" content="00:23:39" />
+<meta name="ncc:timeInThisSmil" content="00:00:11" />
+<layout>
+<region id="txtView" />
+</layout>
+<meta name="dc:identifier" content="PID4980" />
+</head>
+<body>
+<seq dur="10.789s">
+<par endsync="last">
+<text src="fire_safety.html#bfcw_00ce" id="bfcw_00ce" />
+<seq>
+<audio src="41_C.wav" clip-begin="npt=0.0s" clip-end="npt=1.199s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_00cf" id="bfcw_00cf" />
+<seq>
+<audio src="41_C.wav" clip-begin="npt=1.199s" clip-end="npt=3.399s" id="qwrt_0002" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_00d0" id="bfcw_00d0" />
+<seq>
+<audio src="41_C.wav" clip-begin="npt=3.399s" clip-end="npt=5.799s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_00d1" id="bfcw_00d1" />
+<seq>
+<audio src="41_C.wav" clip-begin="npt=5.799s" clip-end="npt=8.399s" id="qwrt_0004" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_00d2" id="bfcw_00d2" />
+<seq>
+<audio src="41_C.wav" clip-begin="npt=8.399s" clip-end="npt=10.789s" id="qwrt_0005" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>

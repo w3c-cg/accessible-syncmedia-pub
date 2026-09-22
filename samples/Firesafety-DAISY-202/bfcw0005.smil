@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="LpStudioGen 1.6" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="Acknowledgements" />
+<meta name="dc:title" content="4980FSafe" />
+<meta name="ncc:totalElapsedTime" content="00:02:47" />
+<meta name="ncc:timeInThisSmil" content="00:00:52" />
+<layout>
+<region id="txtView" />
+</layout>
+<meta name="dc:identifier" content="PID4980" />
+</head>
+<body>
+<seq dur="51.566s">
+<par endsync="last">
+<text src="fire_safety.html#bfcw_002d" id="bfcw_002d" />
+<seq>
+<audio src="05_Acknowledgements.wav" clip-begin="npt=0.000s" clip-end="npt=1.953s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_002e" id="bfcw_002e" />
+<seq>
+<audio src="05_Acknowledgements.wav" clip-begin="npt=1.953s" clip-end="npt=11.353s" id="qwrt_0002" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_002f" id="bfcw_002f" />
+<seq>
+<audio src="05_Acknowledgements.wav" clip-begin="npt=11.353s" clip-end="npt=17.753s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0030" id="bfcw_0030" />
+<seq>
+<audio src="05_Acknowledgements.wav" clip-begin="npt=17.753s" clip-end="npt=23.153s" id="qwrt_0004" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0031" id="bfcw_0031" />
+<seq>
+<audio src="05_Acknowledgements.wav" clip-begin="npt=23.153s" clip-end="npt=33.892s" id="qwrt_0005" />
+<audio src="05_Acknowledgements.wav" clip-begin="npt=33.892s" clip-end="npt=37.614s" id="qwrt_0006" />
+<audio src="05_Acknowledgements.wav" clip-begin="npt=37.614s" clip-end="npt=40.753s" id="qwrt_0007" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0032" id="bfcw_0032" />
+<seq>
+<audio src="05_Acknowledgements.wav" clip-begin="npt=40.753s" clip-end="npt=50.772s" id="qwrt_0008" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0033" id="bfcw_0033" />
+<seq>
+<audio src="05_Acknowledgements.wav" clip-begin="npt=50.772s" clip-end="npt=51.566s" id="qwrt_0009" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>

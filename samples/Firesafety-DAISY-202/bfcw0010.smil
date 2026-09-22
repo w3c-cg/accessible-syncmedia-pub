@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="LpStudioGen 1.6" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="Fire drills" />
+<meta name="dc:title" content="4980FSafe" />
+<meta name="ncc:totalElapsedTime" content="00:10:32" />
+<meta name="ncc:timeInThisSmil" content="00:00:34" />
+<layout>
+<region id="txtView" />
+</layout>
+<meta name="dc:identifier" content="PID4980" />
+</head>
+<body>
+<seq dur="34.228s">
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0065" id="bfcw_0065" />
+<seq>
+<audio src="16_Fire_drills.wav" clip-begin="npt=0.000s" clip-end="npt=1.837s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0066" id="bfcw_0066" />
+<seq>
+<audio src="16_Fire_drills.wav" clip-begin="npt=1.837s" clip-end="npt=11.637s" id="qwrt_0002" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0067" id="bfcw_0067" />
+<seq>
+<audio src="16_Fire_drills.wav" clip-begin="npt=11.637s" clip-end="npt=19.637s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0068" id="bfcw_0068" />
+<seq>
+<audio src="16_Fire_drills.wav" clip-begin="npt=19.637s" clip-end="npt=33.637s" id="qwrt_0004" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0069" id="bfcw_0069" />
+<seq>
+<audio src="16_Fire_drills.wav" clip-begin="npt=33.637s" clip-end="npt=34.228s" id="qwrt_0005" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>

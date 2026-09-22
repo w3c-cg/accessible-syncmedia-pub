@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="LpStudioGen 1.6" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="3. Fire safety at school" />
+<meta name="dc:title" content="4980FSafe" />
+<meta name="ncc:totalElapsedTime" content="00:10:06" />
+<meta name="ncc:timeInThisSmil" content="00:00:26" />
+<layout>
+<region id="txtView" />
+</layout>
+<meta name="dc:identifier" content="PID4980" />
+</head>
+<body>
+<seq dur="25.550s">
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0061" id="bfcw_0061" />
+<seq>
+<audio src="15_3_Fire_safety_at_sch.wav" clip-begin="npt=0.000s" clip-end="npt=3.935s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0062" id="bfcw_0062" />
+<seq>
+<audio src="15_3_Fire_safety_at_sch.wav" clip-begin="npt=3.935s" clip-end="npt=15.335s" id="qwrt_0002" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0063" id="bfcw_0063" />
+<seq>
+<audio src="15_3_Fire_safety_at_sch.wav" clip-begin="npt=15.335s" clip-end="npt=24.935s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0064" id="bfcw_0064" />
+<seq>
+<audio src="15_3_Fire_safety_at_sch.wav" clip-begin="npt=24.935s" clip-end="npt=25.550s" id="qwrt_0004" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>

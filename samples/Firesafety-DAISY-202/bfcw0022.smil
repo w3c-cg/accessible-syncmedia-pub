@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="LpStudioGen 1.6" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="Leaf litter" />
+<meta name="dc:title" content="4980FSafe" />
+<meta name="ncc:totalElapsedTime" content="00:22:50" />
+<meta name="ncc:timeInThisSmil" content="00:00:06" />
+<layout>
+<region id="txtView" />
+</layout>
+<meta name="dc:identifier" content="PID4980" />
+</head>
+<body>
+<seq dur="6.269s">
+<par endsync="last">
+<text src="fire_safety.html#bfcw_00be" id="bfcw_00be" />
+<seq>
+<audio src="34_Leaf_litter.wav" clip-begin="npt=0.0s" clip-end="npt=1.399s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_00bf" id="bfcw_00bf" />
+<seq>
+<audio src="34_Leaf_litter.wav" clip-begin="npt=1.399s" clip-end="npt=6.269s" id="qwrt_0002" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>

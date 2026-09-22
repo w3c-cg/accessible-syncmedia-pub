@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="LpStudioGen 1.6" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="Contents of this DAISY book" />
+<meta name="dc:title" content="4980FSafe" />
+<meta name="ncc:totalElapsedTime" content="00:00:48" />
+<meta name="ncc:timeInThisSmil" content="00:01:01" />
+<layout>
+<region id="txtView" />
+</layout>
+<meta name="dc:identifier" content="PID4980" />
+</head>
+<body>
+<seq dur="60.950s">
+<par endsync="last">
+<text src="fire_safety.html#bfcw_000a" id="bfcw_000a" />
+<seq>
+<audio src="03_Contents_of_this_DAI.wav" clip-begin="npt=0.000s" clip-end="npt=2.384s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_000b" id="bfcw_000b" />
+<seq>
+<audio src="03_Contents_of_this_DAI.wav" clip-begin="npt=2.384s" clip-end="npt=5.160s" id="qwrt_0002" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_000c" id="bfcw_000c" />
+<seq>
+<audio src="03_Contents_of_this_DAI.wav" clip-begin="npt=5.160s" clip-end="npt=7.960s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_000d" id="bfcw_000d" />
+<seq>
+<audio src="03_Contents_of_this_DAI.wav" clip-begin="npt=7.960s" clip-end="npt=11.360s" id="qwrt_0004" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_000e" id="bfcw_000e" />
+<seq>
+<audio src="03_Contents_of_this_DAI.wav" clip-begin="npt=11.360s" clip-end="npt=15.360s" id="qwrt_0005" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_000f" id="bfcw_000f" />
+<seq>
+<audio src="03_Contents_of_this_DAI.wav" clip-begin="npt=15.360s" clip-end="npt=19.960s" id="qwrt_0006" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0010" id="bfcw_0010" />
+<seq>
+<audio src="03_Contents_of_this_DAI.wav" clip-begin="npt=19.960s" clip-end="npt=24.360s" id="qwrt_0007" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0011" id="bfcw_0011" />
+<seq>
+<audio src="03_Contents_of_this_DAI.wav" clip-begin="npt=24.360s" clip-end="npt=28.760s" id="qwrt_0008" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0012" id="bfcw_0012" />
+<seq>
+<audio src="03_Contents_of_this_DAI.wav" clip-begin="npt=28.760s" clip-end="npt=33.160s" id="qwrt_0009" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0013" id="bfcw_0013" />
+<seq>
+<audio src="03_Contents_of_this_DAI.wav" clip-begin="npt=33.160s" clip-end="npt=38.360s" id="qwrt_000a" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0014" id="bfcw_0014" />
+<seq>
+<audio src="03_Contents_of_this_DAI.wav" clip-begin="npt=38.360s" clip-end="npt=44.160s" id="qwrt_000b" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0015" id="bfcw_0015" />
+<seq>
+<audio src="03_Contents_of_this_DAI.wav" clip-begin="npt=44.160s" clip-end="npt=48.560s" id="qwrt_000c" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0016" id="bfcw_0016" />
+<seq>
+<audio src="03_Contents_of_this_DAI.wav" clip-begin="npt=48.560s" clip-end="npt=51.360s" id="qwrt_000d" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0017" id="bfcw_0017" />
+<seq>
+<audio src="03_Contents_of_this_DAI.wav" clip-begin="npt=51.360s" clip-end="npt=53.760s" id="qwrt_000e" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0018" id="bfcw_0018" />
+<seq>
+<audio src="03_Contents_of_this_DAI.wav" clip-begin="npt=53.760s" clip-end="npt=57.160s" id="qwrt_000f" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0019" id="bfcw_0019" />
+<seq>
+<audio src="03_Contents_of_this_DAI.wav" clip-begin="npt=57.160s" clip-end="npt=60.160s" id="qwrt_0010" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_001a" id="bfcw_001a" />
+<seq>
+<audio src="03_Contents_of_this_DAI.wav" clip-begin="npt=60.160s" clip-end="npt=60.950s" id="qwrt_0011" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>

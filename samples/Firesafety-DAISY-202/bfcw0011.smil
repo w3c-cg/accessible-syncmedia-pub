@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="LpStudioGen 1.6" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="Helpful hints for escaping a fire at school" />
+<meta name="dc:title" content="4980FSafe" />
+<meta name="ncc:totalElapsedTime" content="00:11:06" />
+<meta name="ncc:timeInThisSmil" content="00:00:51" />
+<layout>
+<region id="txtView" />
+</layout>
+<meta name="dc:identifier" content="PID4980" />
+</head>
+<body>
+<seq dur="51.396s">
+<par endsync="last">
+<text src="fire_safety.html#bfcw_006a" id="bfcw_006a" />
+<seq>
+<audio src="17_Helpful_hints_for_es.wav" clip-begin="npt=0.0s" clip-end="npt=3.799s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_006b" id="bfcw_006b" />
+<seq>
+<audio src="17_Helpful_hints_for_es.wav" clip-begin="npt=3.799s" clip-end="npt=16.399s" id="qwrt_0002" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_006c" id="bfcw_006c" />
+<seq>
+<audio src="17_Helpful_hints_for_es.wav" clip-begin="npt=16.399s" clip-end="npt=33.799s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_006d" id="bfcw_006d" />
+<seq>
+<audio src="17_Helpful_hints_for_es.wav" clip-begin="npt=33.799s" clip-end="npt=34.199s" id="qwrt_0004" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_006e" id="bfcw_006e" />
+<seq>
+<audio src="17_Helpful_hints_for_es.wav" clip-begin="npt=34.199s" clip-end="npt=45.199s" id="qwrt_0005" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_006f" id="bfcw_006f" />
+<seq>
+<audio src="17_Helpful_hints_for_es.wav" clip-begin="npt=45.199s" clip-end="npt=50.599s" id="qwrt_0006" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0070" id="bfcw_0070" />
+<seq>
+<audio src="17_Helpful_hints_for_es.wav" clip-begin="npt=50.599s" clip-end="npt=51.396s" id="qwrt_0007" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>

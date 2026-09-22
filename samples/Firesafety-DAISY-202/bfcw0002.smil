@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="LpStudioGen 1.6" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="About this DAISY book" />
+<meta name="dc:title" content="4980FSafe" />
+<meta name="ncc:totalElapsedTime" content="00:00:06" />
+<meta name="ncc:timeInThisSmil" content="00:00:42" />
+<layout>
+<region id="txtView" />
+</layout>
+<meta name="dc:identifier" content="PID4980" />
+</head>
+<body>
+<seq dur="41.877s">
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0002" id="bfcw_0002" />
+<seq>
+<audio src="02_About_this_DAISY_boo.wav" clip-begin="npt=0.000s" clip-end="npt=2.207s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0003" id="bfcw_0003" />
+<seq>
+<audio src="02_About_this_DAISY_boo.wav" clip-begin="npt=2.207s" clip-end="npt=9.007s" id="qwrt_0002" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0004" id="bfcw_0004" />
+<seq>
+<audio src="02_About_this_DAISY_boo.wav" clip-begin="npt=9.007s" clip-end="npt=16.807s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0005" id="bfcw_0005" />
+<seq>
+<audio src="02_About_this_DAISY_boo.wav" clip-begin="npt=16.807s" clip-end="npt=21.904s" id="qwrt_0004" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0006" id="bfcw_0006" />
+<seq>
+<audio src="02_About_this_DAISY_boo.wav" clip-begin="npt=21.904s" clip-end="npt=26.607s" id="qwrt_0005" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0007" id="bfcw_0007" />
+<seq>
+<audio src="02_About_this_DAISY_boo.wav" clip-begin="npt=26.607s" clip-end="npt=35.607s" id="qwrt_0006" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0008" id="bfcw_0008" />
+<seq>
+<audio src="02_About_this_DAISY_boo.wav" clip-begin="npt=35.607s" clip-end="npt=41.207s" id="qwrt_0007" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0009" id="bfcw_0009" />
+<seq>
+<audio src="02_About_this_DAISY_boo.wav" clip-begin="npt=41.207s" clip-end="npt=41.877s" id="qwrt_0008" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="LpStudioGen 1.6" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="Bushfire danger season" />
+<meta name="dc:title" content="4980FSafe" />
+<meta name="ncc:totalElapsedTime" content="00:16:09" />
+<meta name="ncc:timeInThisSmil" content="00:00:30" />
+<layout>
+<region id="txtView" />
+</layout>
+<meta name="dc:identifier" content="PID4980" />
+</head>
+<body>
+<seq dur="29.714s">
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0088" id="bfcw_0088" />
+<seq>
+<audio src="22_Bushfire_danger_seas.wav" clip-begin="npt=0.0s" clip-end="npt=2.599s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0089" id="bfcw_0089" />
+<seq>
+<audio src="22_Bushfire_danger_seas.wav" clip-begin="npt=2.599s" clip-end="npt=10.279s" id="qwrt_0002" />
+<audio src="22_Bushfire_danger_seas.wav" clip-begin="npt=10.279s" clip-end="npt=14.799s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_008a" id="bfcw_008a" />
+<seq>
+<audio src="22_Bushfire_danger_seas.wav" clip-begin="npt=14.799s" clip-end="npt=29.199s" id="qwrt_0004" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_008b" id="bfcw_008b" />
+<seq>
+<audio src="22_Bushfire_danger_seas.wav" clip-begin="npt=29.199s" clip-end="npt=29.714s" id="qwrt_0005" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>

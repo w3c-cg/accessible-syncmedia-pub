@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="LpStudioGen 1.6" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="7. How fire fighters keep us safe" />
+<meta name="dc:title" content="4980FSafe" />
+<meta name="ncc:totalElapsedTime" content="00:18:44" />
+<meta name="ncc:timeInThisSmil" content="00:01:34" />
+<layout>
+<region id="txtView" />
+</layout>
+<meta name="dc:identifier" content="PID4980" />
+</head>
+<body>
+<seq dur="93.664s">
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0099" id="bfcw_0099" />
+<seq>
+<audio src="25_7_How_fire_fighters_.wav" clip-begin="npt=0.000s" clip-end="npt=4.799s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_009a" id="bfcw_009a" />
+<seq>
+<audio src="25_7_How_fire_fighters_.wav" clip-begin="npt=4.799s" clip-end="npt=18.799s" id="qwrt_0002" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_009b" id="bfcw_009b" />
+<seq>
+<audio src="25_7_How_fire_fighters_.wav" clip-begin="npt=18.799s" clip-end="npt=31.199s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_009c" id="bfcw_009c" />
+<seq>
+<audio src="25_7_How_fire_fighters_.wav" clip-begin="npt=31.199s" clip-end="npt=41.799s" id="qwrt_0004" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_009d" id="bfcw_009d" />
+<seq>
+<audio src="25_7_How_fire_fighters_.wav" clip-begin="npt=41.799s" clip-end="npt=55.199s" id="qwrt_0005" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_009e" id="bfcw_009e" />
+<seq>
+<audio src="25_7_How_fire_fighters_.wav" clip-begin="npt=55.199s" clip-end="npt=55.799s" id="qwrt_0006" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_009f" id="bfcw_009f" />
+<seq>
+<audio src="25_7_How_fire_fighters_.wav" clip-begin="npt=55.799s" clip-end="npt=66.799s" id="qwrt_0007" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_00a0" id="bfcw_00a0" />
+<seq>
+<audio src="25_7_How_fire_fighters_.wav" clip-begin="npt=66.799s" clip-end="npt=81.599s" id="qwrt_0008" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_00a1" id="bfcw_00a1" />
+<seq>
+<audio src="25_7_How_fire_fighters_.wav" clip-begin="npt=81.599s" clip-end="npt=92.959s" id="qwrt_0009" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_00a2" id="bfcw_00a2" />
+<seq>
+<audio src="25_7_How_fire_fighters_.wav" clip-begin="npt=92.959s" clip-end="npt=93.665s" id="qwrt_000a" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="LpStudioGen 1.6" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="A fire escape plan" />
+<meta name="dc:title" content="4980FSafe" />
+<meta name="ncc:totalElapsedTime" content="00:08:07" />
+<meta name="ncc:timeInThisSmil" content="00:00:56" />
+<layout>
+<region id="txtView" />
+</layout>
+<meta name="dc:identifier" content="PID4980" />
+</head>
+<body>
+<seq dur="56.013s">
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0057" id="bfcw_0057" />
+<seq>
+<audio src="13_A_fire_escape_plan.wav" clip-begin="npt=0.000s" clip-end="npt=2.466s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0058" id="bfcw_0058" />
+<seq>
+<audio src="13_A_fire_escape_plan.wav" clip-begin="npt=2.466s" clip-end="npt=14.374s" id="qwrt_0002" />
+<audio src="13_A_fire_escape_plan.wav" clip-begin="npt=14.374s" clip-end="npt=26.666s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_0059" id="bfcw_0059" />
+<seq>
+<audio src="13_A_fire_escape_plan.wav" clip-begin="npt=26.666s" clip-end="npt=41.666s" id="qwrt_0004" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_005a" id="bfcw_005a" />
+<seq>
+<audio src="13_A_fire_escape_plan.wav" clip-begin="npt=41.666s" clip-end="npt=54.927s" id="qwrt_0005" />
+</seq>
+</par>
+<par endsync="last">
+<text src="fire_safety.html#bfcw_005b" id="bfcw_005b" />
+<seq>
+<audio src="13_A_fire_escape_plan.wav" clip-begin="npt=54.927s" clip-end="npt=56.013s" id="qwrt_0006" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>
