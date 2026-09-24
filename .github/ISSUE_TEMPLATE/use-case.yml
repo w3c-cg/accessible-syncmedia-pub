@@ -2,7 +2,6 @@ name: Use Case
 description: Capture user experience needs for accessible synchronized media
 title: "[Use case]: "
 labels:
-  - accessibility
   - use case
 body:
   - type: markdown
