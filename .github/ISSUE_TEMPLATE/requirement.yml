@@ -12,7 +12,7 @@ body:
     validations:
       required: true
 
-  - type: textarea
+  - type: input
     id: use-case
     attributes:
       label: Related use case
