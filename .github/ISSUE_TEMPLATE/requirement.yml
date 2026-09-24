@@ -1,0 +1,22 @@
+name: Requirement
+description: Propose a single requirement derived from an existing use case.
+title: "[Requirement] "
+labels:
+  - requirement
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe one requirement clearly and concisely.
+    validations:
+      required: true
+
+  - type: textarea
+    id: use-case
+    attributes:
+      label: Related use case
+      description: Type # followed by the use case title or issue number, then select it from the suggestions.
+      placeholder: "#123"
+    validations:
+      required: true
