@@ -1,5 +1,5 @@
 name: Requirement
-description: Propose a single requirement derived from an existing use case.
+description: Propose a single requirement derived from one or more existing use cases.
 title: "[Requirement] "
 labels:
   - requirement
@@ -10,13 +10,13 @@ body:
       label: Description
       description: Describe one requirement clearly and concisely.
     validations:
-      required: true
+      required: false
 
   - type: input
     id: use-case
     attributes:
-      label: Related use case
-      description: Type # followed by the use case title or issue number, then select it from the suggestions.
-      placeholder: "#123"
+      label: Use case(s)
+      description: "Enter the related use case issue numbers."
+      placeholder: "#1, #2, #6"
     validations:
       required: true
