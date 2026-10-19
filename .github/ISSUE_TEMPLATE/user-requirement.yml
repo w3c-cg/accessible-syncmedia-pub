@@ -1,6 +1,6 @@
-name: Requirement
-description: Propose a single requirement derived from one or more existing use cases.
-title: "[Requirement] "
+name: User Requirement
+description: Propose a single user requirement derived from one or more existing use cases.
+title: "[User requirement] "
 labels:
   - requirement
 body:
@@ -8,7 +8,7 @@ body:
     id: description
     attributes:
       label: Description
-      description: Describe one requirement clearly and concisely.
+      description: Describe one user requirement clearly and concisely.
     validations:
       required: false
 
