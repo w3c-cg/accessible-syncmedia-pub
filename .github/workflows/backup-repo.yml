@@ -1,0 +1,47 @@
+name: Back up repository, wiki, and issues
+
+on:
+  schedule:
+    # First day of every month at 09:23 UTC.
+    - cron: '23 9 1 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: read
+
+concurrency:
+  group: repository-backup
+  cancel-in-progress: false
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Check out backup script
+        uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+
+      - name: Create repository, issues, and wiki backup
+        id: backup
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: ./backup-repo.sh "$GITHUB_REPOSITORY" "$RUNNER_TEMP/repository-backups"
+
+      - name: Save backup archive
+        id: upload
+        uses: actions/upload-artifact@v7
+        with:
+          name: repository-backup-${{ github.run_id }}-${{ github.run_attempt }}
+          path: ${{ steps.backup.outputs.archive }}
+          if-no-files-found: error
+          retention-days: 90
+          compression-level: 0
+
+      - name: Link backup in run summary
+        env:
+          ARTIFACT_URL: ${{ steps.upload.outputs.artifact-url }}
+        run: |
+          printf '[Download repository backup](%s)\n\nKept for 90 days.\n' "$ARTIFACT_URL" >> "$GITHUB_STEP_SUMMARY"
