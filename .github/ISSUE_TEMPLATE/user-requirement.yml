@@ -2,7 +2,7 @@ name: User Requirement
 description: Propose a single user requirement derived from one or more existing use cases.
 title: "[User requirement] "
 labels:
-  - requirement
+  - user requirement
 body:
   - type: textarea
     id: description

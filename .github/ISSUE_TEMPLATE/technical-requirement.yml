@@ -1,0 +1,23 @@
+name: Technical Requirement
+description: Propose a technical capability or constraint that comes from the user requirements.
+title: "[Technical requirement] "
+labels:
+  - technical requirement
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe a technical capability or constraint.
+    validations:
+      required: true
+
+  - type: input
+    id: related-issues
+    attributes:
+      label: User requirement(s)
+      description: Enter the related user requirement issue numbers.
+      placeholder: "#18, #34"
+    validations:
+      required: true
+
