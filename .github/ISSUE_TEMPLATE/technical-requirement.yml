@@ -10,7 +10,7 @@ body:
       label: Description
       description: Describe a technical capability or constraint.
     validations:
-      required: true
+      required: false
 
   - type: input
     id: related-issues
