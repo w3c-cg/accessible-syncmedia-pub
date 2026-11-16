@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xml:lang="de"
+    prefix="dcterms: http://purl.org/dc/terms/ a11y: http://www.idpf.org/epub/vocab/package/a11y/# schema: http://schema.org/ dc: http://purl.org/dc/elements/1.1/"
+    unique-identifier="pub-id" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <dc:title id="id_1">Kleinere Novellen</dc:title>
+        <meta refines="#id_1" property="title-type">main</meta>
+        <dc:identifier id="pub-id">804a870d-fa8b-4773-a455-9d109eaf3b30</dc:identifier>
+        <dc:language>de</dc:language>
+        <dc:language>de-Brai</dc:language>
+        <meta property="dcterms:modified">2026-05-29T15:27:46Z</meta>
+        <dc:format>eBraille 1.0</dc:format>
+        <dc:date>2026-05-29T15:27:38+00:00</dc:date>
+        <dc:creator>Goethe, Johann Wolfgang von</dc:creator>
+        <dc:subject />
+        <dc:description />
+        <dc:type>Text</dc:type>
+        <dc:source id="src" />
+        <meta property="dcterms:date" refines="#src">1795</meta>
+        <meta property="dcterms:dateCopyrighted">Unknown</meta>
+        <meta property="a11y:brailleCellType">6</meta>
+        <meta property="a11y:brailleSystem">German grade2</meta>
+        <meta property="a11y:completeTranscription">true</meta>
+        <meta property="schema:accessMode">tactile</meta>
+        <meta property="schema:accessibilityFeature">tableOfContents</meta>
+        <meta property="schema:accessibilityFeature">pageNavigation</meta>
+        <meta property="a11y:pageBreakSource">unknown</meta>
+        <meta property="dc:Identifier">97b6c58a-1878-4e56-9e80-f609ba8925f9</meta>
+        <meta property="a11y:producer">Swiss Library for the Blind, Visually Impaired and Print
+            Disabled</meta>
+        <meta property="a11y:tactileGraphics">false</meta>
+        <meta property="schema:accessibilityHazard">unknown</meta>
+    </metadata>
+    <manifest>
+        <item href="ebraille/kleinere_novellen-1.html" media-type="application/xhtml+xml"
+            id="item_1" />
+        <item href="ebraille/kleinere_novellen-2.html" media-type="application/xhtml+xml"
+            id="item_2" />
+        <item href="ebraille/kleinere_novellen-3.html" media-type="application/xhtml+xml"
+            id="item_3" />
+        <item href="ebraille/kleinere_novellen-4.html" media-type="application/xhtml+xml"
+            id="item_4" />
+        <item href="ebraille/kleinere_novellen-5.html" media-type="application/xhtml+xml"
+            id="item_5" />
+        <item href="index.html" media-type="application/xhtml+xml" id="item_6" properties="nav" />
+        <item href="ebraille/css/sbs.css" media-type="text/css" id="item_7" />
+    </manifest>
+    <spine>
+        <itemref idref="item_1" id="itemref_1" />
+        <itemref idref="item_2" id="itemref_2" />
+        <itemref idref="item_3" id="itemref_3" />
+        <itemref idref="item_4" id="itemref_4" />
+        <itemref idref="item_5" id="itemref_5" />
+    </spine>
+</package>
