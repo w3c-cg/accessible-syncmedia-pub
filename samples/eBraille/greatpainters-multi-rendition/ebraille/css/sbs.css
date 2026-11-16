@@ -1,0 +1,180 @@
+/* Based on bana.css */
+
+/* See
+   https://daisy.github.io/ebraille/best-practices/styling/index.html
+   for inspiration */
+
+* {
+    font-weight: normal;
+    line-height: 1rem;
+    letter-spacing: 0;
+    margin: 0;
+    padding: 0;
+    border: none;
+    text-align: left;
+    vertical-align: baseline;
+    list-style: none;
+    color: black;
+    text-decoration: none;
+}
+
+/* General Braille Settings */
+body {
+    margin: 0;
+    /* No outer margin for eBraille content */
+    padding: 0;
+    line-height: 1rem;
+    /* To avoid excessive rounding, the reading system will need to handle the space between lines */
+    font-family: 'SimBraille', monospace;
+    /* Unicode braille font */
+}
+
+/* Headings */
+/* Prevent splitting and ensure headings stay with following content */
+h1,
+h2,
+h3 {
+    break-after: avoid;
+    /* Avoid breaking immediately after the heading */
+    break-inside: avoid;
+    /* Ensure the heading itself does not split across pages */
+}
+
+/* Centered Heading (h1) */
+h1 {
+    text-align: center;
+    /* Center the text for a centered heading */
+    margin-top: 1rem;
+    /* Blank line before heading */
+    margin-bottom: 1rem;
+    /* Blank line after heading */
+}
+
+/* Cell-5 Heading (h2) */
+h2 {
+    margin-left: 4ch;
+    /* Indented to the fifth cell */
+    margin-top: 1rem;
+    /* Blank line before heading */
+}
+
+/* Cell-7 Heading (h3) */
+h3 {
+    margin-left: 6ch;
+    /* Indented to the seventh cell */
+    margin-top: 1rem;
+    /* Blank line before heading */
+}
+
+/* Left-Justified Paragraph (p) */
+p {
+    margin-top: 1rem;
+    /* Blank line before */
+    padding-left: 0;
+    /* Start at cell 1 */
+    text-indent: 0;
+    /* No additional indentation */
+}
+
+/* Indented Paragraph (p.indented) */
+p.indented {
+    margin: 0;
+    /* No blank lines before or after */
+    padding-left: 2ch;
+    /* Start the first line at cell 3 */
+    text-indent: -2ch;
+    /* Runover starts at cell 1 */
+}
+
+/* General List Styling */
+ul,
+ol {
+    list-style-type: none;
+    /* Remove bullets/numbers */
+    margin: 1ch 0;
+    /* Blank line before and after lists */
+    padding-left: 0;
+    /* Start at cell 1 */
+}
+
+/* Remove the blank line before lists that follow cell-5 or cell-7 headings */
+h2+ul,
+h2+ol,
+h3+ul,
+h3+ol {
+    margin-top: 0;
+    /* No blank line before the list */
+}
+
+/* List Formatting */
+li {
+    text-indent: -2ch;
+    margin-left: 2ch;
+}
+
+ol:has(ol)>li {
+    text-indent: -4ch;
+    margin-left: 4ch;
+}
+
+ol ol li {
+    text-indent: -2ch;
+    margin-left: 0;
+}
+
+/* Poetry Formatting */
+/* General Poetry Formatting */
+.poetry {
+    margin-top: 1rem;
+    /* Blank line before poem */
+    padding-left: 0;
+    /* Start at cell 1 for main entry */
+    break-inside: avoid;
+    /* Prevent breaking mid-poem if possible */
+}
+
+/* Centered Poems */
+.poetry.centered {
+    text-align: center;
+    /* Center-align text for centered poems */
+    padding-left: 0;
+    /* Use default cell 1 alignment */
+}
+
+/* Stanza Breaks */
+.poetry .stanza {
+    margin-top: 1rem;
+    /* Blank line before each stanza */
+    break-inside: avoid;
+    /* Ensure blank lines are avoided inside stanzas */
+}
+
+/* Stanza Number Headings */
+.poetry .stanza-number {
+    margin-left: 4ch;
+    /* Cell-5 heading for stanza numbers */
+    margin-top: 1rem;
+    /* Blank line before stanza number */
+    margin-bottom: 0;
+    /* No additional spacing after stanza number */
+    break-inside: avoid;
+    /* Ensure stanza numbers don't separate from stanzas */
+}
+
+/* Boxed Text */
+.box {
+    margin: 1ch 0;
+}
+
+.box::before,
+.box::after {
+    display: block;
+    content: "⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶";
+    overflow: hidden;
+}
+
+/* Block Quotes */
+blockquote {
+    margin-left: 4ch;
+    /* Indent block quotes to cell 5 */
+}

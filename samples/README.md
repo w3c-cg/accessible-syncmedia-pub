@@ -21,3 +21,5 @@ Two editions of Goethe's *Kleinere Novellen*, using German grade 2, six-dot Unic
 
 - [Single rendition](eBraille/kleinere_novellen.ebrl) ([unpacked files](eBraille/kleinere_novellen/)): the Braille edition.
 - [Multiple renditions](eBraille/kleinere_novellen-multi-rendition.ebrl) ([unpacked files](eBraille/kleinere_novellen-multi-rendition/)): Braille and original German text, connected through a rendition mapping using EPUB CFIs.
+
+[Selections from *Great Pictures, As Seen and Described by Famous Writers*](eBraille/greatpainters-multi-rendition.ebrl), compiled by Esther Singleton ([unpacked files](eBraille/greatpainters-multi-rendition/)): original English text and UEB grade 2 Braille, with painting images and EPUB CFI rendition mapping.

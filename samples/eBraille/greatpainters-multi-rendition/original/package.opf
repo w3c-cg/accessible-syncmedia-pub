@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xml:lang="en-US" prefix="dcterms: http://purl.org/dc/terms/ schema: http://schema.org/ a11y: http://www.idpf.org/epub/vocab/package/a11y/# dc: http://purl.org/dc/elements/1.1/" unique-identifier="pub-id" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <dc:title id="id_1">Selections from "Great Pictures, As Seen and Described by Famous Writers"</dc:title>
+        <meta refines="#id_1" property="title-type">main</meta>
+        <dc:identifier id="pub-id">94817e38-3de3-42c1-80fb-d260dad067ab</dc:identifier>
+        <dc:language>en-US</dc:language>
+        <meta property="dcterms:modified">2026-05-29T15:33:56Z</meta>
+        <dc:date>2026-05-29T15:33:51+00:00</dc:date>
+        <dc:creator>Esther Singleton</dc:creator>
+        <dc:format id="format">EPUB3</dc:format>
+        <meta property="schema:accessibilityFeature">tableOfContents</meta>
+        <meta property="schema:accessibilityFeature">pageNavigation</meta>
+        <meta property="a11y:pageBreakSource">AUTO-UID-5059463624137734586</meta>
+        <meta property="dc:Identifier">AUTO-UID-5059463624137734586</meta>
+        <meta property="schema:accessMode">textual</meta>
+        <meta property="schema:accessibilityHazard">unknown</meta>
+    </metadata>
+    <manifest>
+        <item href="greatpainters-1.html" media-type="application/xhtml+xml" id="item_1"/>
+        <item href="greatpainters-2.html" media-type="application/xhtml+xml" id="item_2"/>
+        <item href="../ebraille/greatpainters-last_judgement.jpg" media-type="image/jpeg" id="item_4"/>
+        <item href="../ebraille/greatpainters-portrait_of_georg_gisze.jpg" media-type="image/jpeg" id="item_5"/>
+        <item href="../ebraille/greatpainters-the_adoration_of_the_lamb.jpg" media-type="image/jpeg" id="item_6"/>
+        <item href="../ebraille/greatpainters-the_fighting_temeraire.jpg" media-type="image/jpeg" id="item_7"/>
+        <item href="../ebraille/greatpainters-spring.jpg" media-type="image/jpeg" id="item_8"/>
+        <item href="nav.html" media-type="application/xhtml+xml" id="item_9" properties="nav"/>
+    </manifest>
+    <spine>
+        <itemref idref="item_1" id="itemref_1"/>
+        <itemref idref="item_2" id="itemref_2"/>
+    </spine>
+</package>
